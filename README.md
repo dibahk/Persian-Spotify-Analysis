@@ -1,0 +1,1 @@
+Preprocessed the data to fit our analysis better Implemented regression to estimate a track's popularity based on chosen features. Applied "Random Forest" to classify a track's genre based on features that are the most correlated to our required feature.
